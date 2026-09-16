@@ -1,0 +1,4 @@
+[
+  "tests/test_pipeline.py::test_transform_adds_analytics_columns",
+  "tests/test_pipeline.py::test_validation_removes_invalid_rows"
+]
