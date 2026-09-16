@@ -1,0 +1,11 @@
+pandas>=2.0
+streamlit>=1.35
+plotly>=5.20
+requests>=2.31
+python-dotenv>=1.0
+pytest>=7.0
+google-cloud-storage>=2.16
+google-cloud-bigquery>=3.25
+google-cloud-bigquery-storage>=2.25
+pyarrow>=14.0
+db-dtypes>=1.2
